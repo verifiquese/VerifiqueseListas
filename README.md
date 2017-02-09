@@ -1,5 +1,5 @@
 # Verifiquese Listas
-Aplicación que permite gestionar listas blancas o negras a partir del escaneo de los códigos de barras de los documentos de identidad hechos por la Aplicación Verifquese Cédula  (https://play.google.com/store/apps/details?id=se.verifique.app.cedula).
+Aplicación que permite gestionar listas blancas o negras a partir del escaneo de los códigos de barras de los documentos de identidad hechos por la Aplicación Verifquese Cédula  [Verifíquese Cédula](https://play.google.com/store/apps/details?id=se.verifique.app.cedula).
 El servicio Premium de la Aplicación Verifquese Cédula permite ejecutar un llamado HTTP a una dirección o nombre DNS (URL), luego de reconocer el código de barras del documento de identidad.  Se ejecuta el llamado HTTP dentro de un WebView, enviando en el llamado GET, como parámetros, los datos obtenidos del código de barras escaneado del documento de identidad.
 Este servicio permite una variedad de aplicaciones de uso para negocios, eventos, entradas a lugares restringidos, toma de datos de clientes para calidad de datos, etc.
 Una de esas aplicaciones es el control de acceso a un lugar restringido mediante el uso de Listas Blancas (https://es.wikipedia.org/wiki/Lista_blanca).
